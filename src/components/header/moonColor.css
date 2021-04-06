@@ -1,0 +1,17 @@
+:root {
+    --ion-color-moon: #f1dc33;
+    --ion-color-moon-rgb: 105,187,123;
+    --ion-color-moon-contrast: #ffffff;
+    --ion-color-moon-contrast-rgb: 255,255,255;
+    --ion-color-moon-shade: #c8b839;
+    --ion-color-moon-tint: #eae931;
+}
+
+.ion-color-moon {
+    --ion-color-base: var(--ion-color-moon);
+    --ion-color-base-rgb: var(--ion-color-moon-rgb);
+    --ion-color-contrast: var(--ion-color-moon-contrast);
+    --ion-color-contrast-rgb: var(--ion-color-moon-contrast-rgb);
+    --ion-color-shade: var(--ion-color-moon-shade);
+    --ion-color-tint: var(--ion-color-moon-tint);
+}
