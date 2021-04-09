@@ -1,0 +1,9 @@
+.registerContent{
+    margin-left: 25%;
+    margin-right: 25%;
+    outline: 1px solid black;
+}
+
+.registerContent.dark{
+    outline: 1px solid white;
+}
