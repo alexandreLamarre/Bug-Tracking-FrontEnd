@@ -13,9 +13,9 @@ This repository represents the Client interface of the distributed system.
 
 ### System Architecture
 
-The system is based on a cloud-hosted dsitributed systems architechture, deployed via Kubernetes & automated via Jenkins. 
+The system is based on a cloud-hosted dsitributed systems architecture, deployed via Kubernetes & automated via Jenkins. 
 
-![](https://github.com/alexandreLamarre/Bug-Tracking-FrontEnd/blob/main/bug_tracking_architechture.pdf)
+![](https://github.com/alexandreLamarre/Bug-Tracking-FrontEnd/blob/main/bug_tracking_arch.png)
 
 
 
